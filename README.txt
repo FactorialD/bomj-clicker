@@ -1,0 +1,1 @@
+Simple San Andreas like clicker. Has a idle gain function.
